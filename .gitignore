@@ -1,0 +1,16 @@
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/storage/pail
+.env
+.env.*
+!.env.example
+.phpunit.result.cache
+/database/*.sqlite
+/database/*.sqlite-journal
+Homestead.json
+Homestead.yaml
+auth.json
+*.log
+.DS_Store
