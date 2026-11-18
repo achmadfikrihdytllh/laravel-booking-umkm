@@ -7,7 +7,7 @@ return [
         'tagline' => 'Reservasi online, mudah dan cepat',
         'about' => '',
         'logo_path' => null,
-        'brand_color' => '#0f766e',
+        'brand_color' => '#0d9488',
         'whatsapp' => '',            // nomor WhatsApp bisnis, contoh 0812xxxx atau 62812xxxx
         'wa_greeting' => 'Halo, saya ingin bertanya.',
         'email' => '',

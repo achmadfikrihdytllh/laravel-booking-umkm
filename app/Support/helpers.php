@@ -72,9 +72,9 @@ if (! function_exists('service_label')) {
 if (! function_exists('brand_color')) {
     function brand_color(): string
     {
-        $c = (string) setting('brand_color', '#0f766e');
+        $c = (string) setting('brand_color', '#0d9488');
 
-        return preg_match('/^#[0-9a-fA-F]{6}$/', $c) ? $c : '#0f766e';
+        return preg_match('/^#[0-9a-fA-F]{6}$/', $c) ? $c : '#0d9488';
     }
 }
 
