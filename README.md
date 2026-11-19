@@ -1,4 +1,4 @@
-# Janji Booking
+# Website Booking
 
 Sistem reservasi dan jadwal yang bisa dipakai ulang untuk klinik dan UMKM: klinik, salon, barber, studio, bengkel, dan usaha lain yang melayani pelanggan lewat janji temu.
 
